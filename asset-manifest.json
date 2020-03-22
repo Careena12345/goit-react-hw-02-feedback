@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/goit-react-hw-02-feedback.git/static/js/main.95f376e8.chunk.js",
-    "main.js.map": "/goit-react-hw-02-feedback.git/static/js/main.95f376e8.chunk.js.map",
-    "runtime-main.js": "/goit-react-hw-02-feedback.git/static/js/runtime-main.0f50fe99.js",
-    "runtime-main.js.map": "/goit-react-hw-02-feedback.git/static/js/runtime-main.0f50fe99.js.map",
-    "static/js/2.ab12bbff.chunk.js": "/goit-react-hw-02-feedback.git/static/js/2.ab12bbff.chunk.js",
-    "static/js/2.ab12bbff.chunk.js.map": "/goit-react-hw-02-feedback.git/static/js/2.ab12bbff.chunk.js.map",
-    "index.html": "/goit-react-hw-02-feedback.git/index.html",
-    "precache-manifest.df3824a69fcc197439ab8fc11c268fa4.js": "/goit-react-hw-02-feedback.git/precache-manifest.df3824a69fcc197439ab8fc11c268fa4.js",
-    "service-worker.js": "/goit-react-hw-02-feedback.git/service-worker.js",
-    "static/js/2.ab12bbff.chunk.js.LICENSE.txt": "/goit-react-hw-02-feedback.git/static/js/2.ab12bbff.chunk.js.LICENSE.txt"
+    "main.js": "/goit-react-hw-02-feedback/static/js/main.95f376e8.chunk.js",
+    "main.js.map": "/goit-react-hw-02-feedback/static/js/main.95f376e8.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-02-feedback/static/js/runtime-main.9cb39d68.js",
+    "runtime-main.js.map": "/goit-react-hw-02-feedback/static/js/runtime-main.9cb39d68.js.map",
+    "static/js/2.ab12bbff.chunk.js": "/goit-react-hw-02-feedback/static/js/2.ab12bbff.chunk.js",
+    "static/js/2.ab12bbff.chunk.js.map": "/goit-react-hw-02-feedback/static/js/2.ab12bbff.chunk.js.map",
+    "index.html": "/goit-react-hw-02-feedback/index.html",
+    "precache-manifest.d2c4b3c933ce3182caf0f116ef7dc083.js": "/goit-react-hw-02-feedback/precache-manifest.d2c4b3c933ce3182caf0f116ef7dc083.js",
+    "service-worker.js": "/goit-react-hw-02-feedback/service-worker.js",
+    "static/js/2.ab12bbff.chunk.js.LICENSE.txt": "/goit-react-hw-02-feedback/static/js/2.ab12bbff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f50fe99.js",
+    "static/js/runtime-main.9cb39d68.js",
     "static/js/2.ab12bbff.chunk.js",
     "static/js/main.95f376e8.chunk.js"
   ]
